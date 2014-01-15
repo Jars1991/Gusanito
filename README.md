@@ -11,3 +11,5 @@ Es el clásico juego del gusanito en 2D desarrollado en JAVA en su versión 1.6,
   * [Comenzando el juego](https://raw.github.com/Jars1991/Gusanito/master/screenShots/bienvenida.PNG)
   * [Juego en accion](https://raw.github.com/Jars1991/Gusanito/master/screenShots/jugando.PNG)
   * [Perdiendo el juego](https://raw.github.com/Jars1991/Gusanito/master/screenShots/muriendo.PNG)
+
+**NOTA: ** En la carpeta jarFile se encuentra el archivo Gusanito.jar.xxx al cual le quitan la extension .xxx para poder ejecuarlo.
